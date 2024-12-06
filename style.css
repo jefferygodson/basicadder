@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: plum;
+    color: maroon;
+    padding: 15px;
+    padding-bottom: 50px;
+}
+.body{
+    background-color: black;
+    color: white;
+    padding-bottom: 348px;
+}
+script{
+    background-color: black;
+    color: white;
+}
+.foot{
+    background-color: plum;
+    color: maroon;
+}
+input,.one{
+    display: inline;
+}
+.button{
+    width: 10%;
+    height: 25px;
+}
+.black{
+    width: 30px;
+    height: 25px;
+}
